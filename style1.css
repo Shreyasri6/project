@@ -1,0 +1,51 @@
+body{
+    background-color: #495057;
+}
+.sec1{
+    width: 80%;
+    margin: 0px auto;
+    background-color: #343a40;
+    padding: 10px;
+}
+.sec1 h1,nav{
+    color: whitesmoke;
+    width: 960px;
+    margin: 3px auto;
+}
+.sec1 nav{
+    background-color: #212529;
+    padding: 1px 0px;
+}
+
+.sec1 nav ul{
+    display: flex;
+    list-style: none;
+}
+
+.sec1 nav ul li{
+    margin-right: 20px;
+}
+
+@media -65,4 +65,22 @@ figure h1{ */
+    /* margin: 0px;
+    height: 85%;
+    background-color: rgb(43, 42, 42);
+}
+
+
+
+.footer{
+    width: 80%;
+    margin: 0px auto;
+    padding: 10px;
+    background-color: #343a40;
+    color: whitesmoke;
+}
+.footer ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.footer ul li{
+    margin-right: 20px;
+} 
